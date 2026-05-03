@@ -15,6 +15,7 @@ People often ask why I’m moving from Electronics to Data. The answer is simple
   - The Goal: I want to apply the rigor of engineering to the world of Big Data, transforming messy datasets into clean, optimized, and organized workflows that drive business value.
 
 **Tech Stack**
+
 Core: SQL Server, Python (Pandas), Excel.
 
 Visualization: Power BI, Matplotlib, Seaborn.
